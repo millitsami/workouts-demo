@@ -1,0 +1,43 @@
+[
+    {
+      "id":1,
+      "time": "10:00 AM",
+      "date": "Tue, 22.01.",
+      "title": "Body analysis",
+      "address": "234 Main Street",
+      "gymName": "Fit for life"
+    },
+    {
+      "id":2,
+      "time": "2:30 PM",
+      "date": "Tue, 23.01.",
+      "title": "Yoga Session",
+      "address": "234 Main Street",
+      "gymName": "Fit for life"
+    }, 
+    {
+      "id":3,
+      "time": "9:30 AM",
+      "date": "Tue, 24.01.",
+      "title": "Pilates Session",
+      "address": "234 Main Street",
+      "gymName": "Fit for life"
+    },
+    {
+      "id":4,
+      "time": "9:30 AM",
+      "date": "Tue, 25.01.",
+      "title": "Body analysis",
+      "address": "234 Main Street",
+      "gymName": "Fit for life"
+    },
+    {
+      "id":5,
+      "time": "9:30 AM",
+      "date": "Tue, 22.01.",
+      "title": "Pilates Session",
+      "address": "234 Main Street",
+      "gymName": "Fit for life"
+    }
+  ]
+  
